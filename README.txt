@@ -1,0 +1,1 @@
+Clone this repo directly into your ~/.config/xfce4 directiory to work.
